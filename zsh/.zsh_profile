@@ -1,0 +1,4 @@
+# Where should I put you?
+bindkey -s ^f "tmux-sessionizer\n"
+
+export PATH=$HOME/.local/scripts:$PATH
